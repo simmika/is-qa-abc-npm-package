@@ -1,10 +1,15 @@
-function isAbc(string) {
-  return string === "ABC"
+// function isAbc(string) {
+//   return string === "ABC"
+// }
+
+// function isInt(int) {
+//   return typeof int === 'number'
+// }
+
+function sum(a, b) {
+  return a + b
 }
 
-function isInt(int) {
-  return typeof int === 'number'
-}
-
-module.exports = isAbc
-module.exports = isInt
+// module.exports = isAbc
+// module.exports = isInt
+module.exports = sum

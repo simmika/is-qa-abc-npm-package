@@ -1,6 +1,6 @@
 {
-  "name": "is-qa-abc",
-  "version": "1.0.1",
+  "name": "@raillis_/is-qa-abc",
+  "version": "1.0.2",
   "description": "Is the string QA-ABC?",
   "main": "index.js",
   "scripts": {
